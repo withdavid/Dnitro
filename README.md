@@ -1,6 +1,7 @@
 # DNitro
 An intelligent bot that generates and verifies discord nitro codes gift. 
 
+
 This project was developed only for educational purposes.
 
 Any unlawful act done through this tool is your entire responsibility.
