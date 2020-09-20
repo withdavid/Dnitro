@@ -1,5 +1,7 @@
 # DNitro
 An intelligent bot that generates and verifies discord nitro codes gift. 
+>This project was developed only for educational purposes.
+>Any unlawful act done through this tool is your entire responsibility.
 
 [![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)](https://travis-ci.org/badges/badgerbadgerbadger)
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org) 
@@ -15,9 +17,7 @@ An intelligent bot that generates and verifies discord nitro codes gift.
 - [ ] Discord bot Mensager (implementing)
 
 
-This project was developed only for educational purposes.
 
-Any unlawful act done through this tool is your entire responsibility.
 
 <h2>Buy me a coffe</h2>
 BTC wallet: 19zbdRCGToV2LPKH8QgxbN5SkaZumUNWou
