@@ -15,5 +15,5 @@ This project was developed only for educational purposes.
 
 Any unlawful act done through this tool is your entire responsibility.
 
-<h2>Help me buying a coffe</h2>
+<h2>Buy me a coffe</h2>
 BTC wallet: 19zbdRCGToV2LPKH8QgxbN5SkaZumUNWou
