@@ -1,6 +1,7 @@
 # DNitro
 An intelligent bot that generates and verifies discord nitro codes gift. 
 
+[![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)](https://travis-ci.org/badges/badgerbadgerbadger)
 
 - [X] Generate random codes
 - [X] Proxy system
