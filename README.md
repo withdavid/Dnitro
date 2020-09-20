@@ -6,7 +6,7 @@ An intelligent bot that generates and verifies discord nitro codes gift.
 >Developers assume no liability and are not responsible for any misuse or damage caused by this program  
 
 [![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)](https://travis-ci.org/badges/badgerbadgerbadger)
-[![Build Status](https://img.shields.io/npm/v/npm?style=flat-square)
+[![Build Status](https://img.shields.io/npm/v/npm?style=flat-square)](https://travis-ci.org/badges/badgerbadgerbadger)
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org) 
 [![Badges](http://img.shields.io/:badges-9/9-ff6799.svg?style=flat-square)](https://github.com/badges/badgerbadgerbadger)
 
