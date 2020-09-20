@@ -1,4 +1,4 @@
-# DNitro
+# DNitro Toolkit
 An intelligent bot that generates and verifies discord nitro codes gift. 
 >This project was developed only for educational purposes.<br>
 >Usage of this project for attacking targets without prior mutual consent is illegal.<br>
