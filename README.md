@@ -12,7 +12,6 @@ An intelligent bot that generates and verifies discord nitro codes gift.
 
 <h2>Objectives:</h2><br>
 
-
 - [X] Generate random codes
 - [X] Proxy system
 - [X] Code checker
