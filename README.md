@@ -22,7 +22,7 @@ An intelligent bot that generates and verifies discord nitro codes gift.
 BTC wallet: 19zbdRCGToV2LPKH8QgxbN5SkaZumUNWou
 
 <h2>Contacts:</h2>
-My Twitter: @DeltaPentester
+My Twitter: <a href="https://twitter.com/DeltaPentester" target="_blank">@DeltaPentester</a>
 
 ## License
 
