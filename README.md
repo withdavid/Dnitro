@@ -20,6 +20,37 @@ An intelligent bot that generates and verifies discord nitro codes gift.
 - [X] Cluster
 - [ ] Discord bot Mensager (implementing)
 
+## PoC GIF
+
+![Giphy GIF](https://media3.giphy.com/media/g4SWOeafwguBqm3JA8/giphy.gif)
+
+## Installation
+
+- Install nodejs and npm at <a href="https://nodejs.org" target="_blank">nodejs.org</a>.
+
+### Clone the repository
+
+- Clone this repo to your local machine using `https://github.com/mendigods/Dnitro`
+
+### Setup
+
+- Now we need to install the dependencies and run the code:
+
+> Installation of npm packages:
+
+```shell
+$ npm install
+```
+- And then run the code:
+
+> Running the code:
+
+```shell
+$ node index.js
+```
+
+---
+
 <h2>Buy me a coffe</h2>
 
 >BTC wallet: 19zbdRCGToV2LPKH8QgxbN5SkaZumUNWou
