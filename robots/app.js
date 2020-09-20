@@ -1,4 +1,5 @@
 //Cluster (Para rodar o script em todos os cores)
+//Cluster (To run the script with all available cores)
  module.exports = function(cluster) {
      var express = require('express')
      var app = express()
@@ -38,6 +39,8 @@ module.exports = {
         var debug = false;
 
         //Gera uma string de 16 caracteres (tamanho do discord code padrão)
+        //Generates a 16-character string (standard discord code size)
+     
         getGiftCode = function() {
             let code = '';
             let dict = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789';
@@ -72,11 +75,8 @@ module.exports = {
             }
         }
 
-        //Chama a função updateLine
         updateLine();
-        
-
-        
+      
         var invalid_counter=0;      
         //Verifica se o código é válido ou não
         checkCode = function(code) {
@@ -94,7 +94,6 @@ module.exports = {
                 }
 
                 try {
-
                     body = JSON.parse(body);
                     if (body.message != "Unknown Gift Code" && body.message != "You are being rate limited.") {
                         logger.log('\x1b[41m', 'CODE FOUND: https://discord.gift/${code}');
