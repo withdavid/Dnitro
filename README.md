@@ -10,6 +10,7 @@ An intelligent bot that generates and verifies discord nitro codes gift.
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org) 
 [![Badges](http://img.shields.io/:badges-9/9-ff6799.svg?style=flat-square)](https://github.com/badges/badgerbadgerbadger)
 
+<h2>Objectives:</h2>
 - [X] Generate random codes
 - [X] Proxy system
 - [X] Code checker
