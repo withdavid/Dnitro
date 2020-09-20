@@ -107,7 +107,7 @@ module.exports = {
                         }
                     } else {
                         invalid_counter++;
-                        logger.info(`Invalid: ${code} | Tentativa nº `+invalid_counter);
+                        logger.info(`Invalid: ${code} | Try nº `+invalid_counter);
                         // console.log('\x1b[31m%s\x1b[0m', `Invalid: ${code}`);
                         // working.push(`https://discord.gift/${code}`);
                         // fs.writeFileSync(__dirname + '/../bin/output/invalid_codes.json', JSON.stringify(working, null, 4));
