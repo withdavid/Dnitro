@@ -11,6 +11,8 @@ An intelligent bot that generates and verifies discord nitro codes gift.
 [![Badges](http://img.shields.io/:badges-9/9-ff6799.svg?style=flat-square)](https://github.com/badges/badgerbadgerbadger)
 
 <h2>Objectives:</h2><br>
+
+
 - [X] Generate random codes
 - [X] Proxy system
 - [X] Code checker
